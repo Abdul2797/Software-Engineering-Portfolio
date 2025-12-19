@@ -1,8 +1,6 @@
 DVD Rental Business Report 
 
- 
-
-Business Report 
+ Business Report 
 
 This business report focuses on identifying the most frequent DVD renters and analyzing their rental behavior for email marketing campaigns. The goal of this report is to provide the marketing team with two easy to understand tables that enable the team to engage with customers by providing new release notifications or even rewards programs, which will further enhance sales and customer satisfaction.
 
@@ -21,5 +19,6 @@ Summary Table:
 The summary table shows the top customers by their rental count. This supports email marketing campaigns by identifying frequent customers who would likely be more receptive to promotions.
 
 Report Refresh Frequency 
+
 
 The report should be refreshed daily using pgAgent made for PostgreSQL (Redwood Software, n.d.) to remain relevant for marketing campaigns. Daily updates would ensure that the marketing team has a current list of frequent renters, increasing the campaign's effectiveness. 
