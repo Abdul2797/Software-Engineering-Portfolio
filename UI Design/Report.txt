@@ -1,1 +1,80 @@
+Paradigm Pet Professionals Website Redesign 
 
+ 
+
+Website Functionality and Micro Interactions 
+
+The redeveloped Paradigm Pet Professionals website should provide functionality that meets both stakeholder and audience needs. The stakeholders need features that facilitate scheduling consultations, collecting user and pet information, and tracking website analytics such as      the number of visitors to the website or scheduled consultations per year. Users should expect seamless navigation, a responsive design across different devices, and interactive elements to enhance the users' experience (Deshdeep, 2025). Key microinteractions, such as input validation on the contact form, visual cues for clickable links, hover effects for buttons, and form error messages, would also further enhance usability and provide immediate feedback. Additionally, search engine optimization features, including metadata descriptions and a clear content hierarchy, ensure the site meets its goal of being on the first page search results for “new pet consultation” (Fishkin, 2020). These combined functionalities ensure that the site meets both stakeholder objectives and user expectations while providing a user friendly experience. 
+
+Content for a New Page 
+
+The new page will be developed for Bird Owners, aligning with the personas interest in relational and emotional well beings for their birds. The content included will be sections on recognizing signs of depression, bonding activities, and guidance for veterinarian consultations when health concerns arise. Main elements will include informational text describing bird behavior and emotional needs, Visual aids such as stock images of birds and infographics showing bonding activities, interactive elements like collapsible sections for different species and tips explaining common behaviors, and buttons leading to the consultation form, ensuring users can quickly request professional advice. This content is directly aligned with bird owner's needs for easy to follow, reliable information and the stakeholders goals of increasing consultation scheduling. 
+
+Website redevelopment 
+
+The current Paradigm Pet Professionals website contains several designs and usability issues that need redevelopment rather than full removal. Even though the information is relevant, its presentation limits usability and accessibility. The navigation bar doesn't clearly indicate the active page, as selecting one page sometimes highlights a different menu item. This creates confusion for the users and makes it difficult to understand where they are on the site.  
+
+Additionally, content across the website is displayed in long, left aligned paragraphs with little to no spacing and little visual hierarchy. The pages rely on plain text with few images and a lack of interactive elements, making the information difficult to read, especially on handheld devices. The whole page also contains unstyled text links, which also causes confusion for users seeking pet care information or scheduling consultations. 
+
+The existing pet pages will be redeveloped into clearly structured sections organized by pet type. These pages will include visual elements and interactive components that improve readability, accessibility, and engagement. Redeveloping this content supports user expectations while also aligning with stakeholders goals of increasing consultation requests and overall site engagement (Blair-Early & Zender, n.d.). 
+
+Visual Sitemap 
+
+The visual sitemap establishes a clear hierarchy and structure that corrects the navigational and organizational issues that were present in the existing website. This sitemap includes the home page, with pet care pages, including Cat, Dog, Bird Owners, and FAQs. The sitemap also includes the supporting page Consultation Requests.  
+
+ 
+	This structure groups content logically by pet type, allowing users to quickly locate information relevant to their needs. The supporting page ‘Consultation Request’ is positioned as a secondary destination under each pet care page, guiding users toward consultations without overwhelming the primary navigation. 
+
+Meeting Audience and Stakeholder Needs 
+
+The redesigned information architecture addresses both the audience and stakeholder needs by improving clarity, navigation, and content organization. Grouping content by pet type aligns with how users naturally search for pet care information, allowing them to find relevant guidance quickly and efficiently. Clear page hierarchy and improved navigation reduce confusion caused by inconsistent active states and unclear page indicators found on the current website. 
+
+For stakeholders, the streamlined structure supports business goals by guiding users from informational content toward consultations. The inclusion of a clearly defined support page increases opportunities for user engagement while maintaining a professional and accessible user experience (Söderlund, 2015). 
+
+Primary and Secondary Navigation Elements 
+
+Primary navigation elements include a consistent top navigation bar with links to Home, Cat Owners, Dog Owners, Bird Owners, and FAQs. These links represent the most frequently accessed sections of the site and provide easy access to core content areas. 
+
+Secondary navigation elements include page anchor links for longer content sections, and contextual links such as ‘Request a Consultation’ buttons placed throughout the pet care pages. These elements allow users to move efficiently within and between pages while maintaining awareness of where they are in the websites hierarchy. 
+
+Alignment with Audience and Stakeholder Needs 
+
+The primary navigation supports audience needs by providing predictable and clearly labeled access to main content areas, reducing confusion caused by the inconsistent navigation found in the original website. For stakeholders, this structure enhances engagement and consultation requests by making key elements easy to locate and access.  
+
+Secondary navigation elements enhance usability by improving orientation and the way content flows, especially for longer informational pages. Anchor links allow users to navigate efficiently without excessive scrolling, supporting accessibility standards and improving the overall user experience across both desktop and handheld devices. (Deshdeep, 2025). 
+
+ 
+
+ 
+
+ 
+
+Home Page Wireframe 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+References 
+
+ 
+
+Blair-Early, A, & Zender, M (n.d.). User interface design principles for effective information presentation. Journal of Usability Studies. 
+
+DeshDeep, N. (2025). How to use C.R.A.P. Design Links With Principles for Better UX?. VWO. https://vwo.com/blog/crap-design-principles/ 
+
+Fishkin, R. (2020). The Beginner's Guide to SEO. Moz. https://moz.com/beginners-guide-to-seo 
+
+Söderlund, T. (2015). 6 reasons you should be prototyping more. Medium. https://medium.com/ux-prototyping/6-reasons-why-you-should-be-prototyping-more-6b7b2b15da77 
+
+ 
